@@ -1,0 +1,3 @@
+Hello, World!
+picture.jpg
+	This line is gettig printed after a tab
